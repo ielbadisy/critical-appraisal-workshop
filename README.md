@@ -8,19 +8,25 @@ Material for participants of the one-day workshop. It contains only what you nee
 |---|---|---|
 | [`participant-pack.pdf`](participant-pack.pdf) | Roadmap of the day (page 1), all exercise sheets, the quiz, manuscript A, the 7-layer checklist, the toolkit and the review report template | All day |
 | [`slides.pdf`](slides.pdf) | The slides of the day | All day |
-| [`materials/pdfs/`](materials/pdfs/) | Open-access PDFs of the documents used or cited on the day (list below) | Exercise 1 and the talks |
+| [`materials/workshop/`](materials/workshop/) | TTM2 protocol (2019) and statistical analysis plan (2020) | Exercise 1 |
+| [`materials/references/`](materials/references/) | Open-access papers, guidelines and tools cited on the day (list below) | Talks, and after the day |
 | [`llm-exercise/manuscript-A.md`](llm-exercise/manuscript-A.md) | Fictional manuscript A, as a text file to paste into an LLM | Exercise 5 |
 
 The TTM2 and Gautret papers, and their annotated versions used in the debriefs, are handed out on paper in class.
 
 ## Papers cited on the day
 
-In [`materials/pdfs/`](materials/pdfs/) (open access):
+Used in the exercises, in [`materials/workshop/`](materials/workshop/):
 
 | File | Paper | Used in |
 |---|---|---|
 | `article-ttm2-protocol-2019.pdf` | TTM2 protocol, Am Heart J 2019 | Exercise 1 |
 | `article-ttm2-sap-2020.pdf` | TTM2 statistical analysis plan, Trials 2020 | Exercise 1 |
+
+Cited on the slides, in [`materials/references/`](materials/references/) (open access):
+
+| File | Paper | Used in |
+|---|---|---|
 | `article-elgazzar-2020-withdrawn.pdf` | Elgazzar 2020 ivermectin preprint, withdrawal note | Slide 11, Exercise 1 Q7 |
 | `method-goldacre-compare-2019.pdf` | Goldacre et al. COMPare, Trials 2019 | Slide 9 |
 | `method-nuijten-statcheck-2016.pdf` | Nuijten et al. statcheck, Behav Res Methods 2016 | Slide 20 |
@@ -61,4 +67,4 @@ The 7-layer checklist, the toolkit and the review report template are at the end
 
 ## Licence
 
-The workshop material (pack, slides, manuscript A) is licensed under [CC BY 4.0](LICENSE). The PDFs in `materials/pdfs/` keep the licence of their publisher: CC BY (TTM2 statistical analysis plan, COMPare, Elgazzar note, statcheck, Huang, CONSORT, SPIRIT, STROBE); CC BY-NC (ROBINS-E, PROBAST+AI); CC BY-NC-ND (TTM2 protocol).
+The workshop material (pack, slides, manuscript A) is licensed under [CC BY 4.0](LICENSE). The PDFs in `materials/workshop/` and `materials/references/` keep the licence of their publisher: CC BY (TTM2 statistical analysis plan, COMPare, Elgazzar note, statcheck, Huang, CONSORT, SPIRIT, STROBE); CC BY-NC (ROBINS-E, PROBAST+AI); CC BY-NC-ND (TTM2 protocol).
