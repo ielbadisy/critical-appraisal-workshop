@@ -30,7 +30,7 @@ Cited on the slides, in [`materials/references/`](materials/references/) (open a
 | `article-elgazzar-2020-withdrawn.pdf` | Elgazzar 2020 ivermectin preprint, withdrawal note | Slide 11, Exercise 1 Q7 |
 | `method-goldacre-compare-2019.pdf` | Goldacre et al. COMPare, Trials 2019 | Slide 9 |
 | `method-nuijten-statcheck-2016.pdf` | Nuijten et al. statcheck, Behav Res Methods 2016 | Slide 20 |
-| `method-huang-llm-rob2-2025.pdf` | Huang et al. LLMs and RoB 2, J Med Internet Res 2025 | Slide 38 |
+| `method-huang-llm-rob2-2025.pdf` | Huang et al. LLMs and RoB 2, J Med Internet Res 2025 | Slide 39 |
 | `guideline-consort-2025.pdf` | CONSORT 2025 | Checklist, slide 7 |
 | `guideline-spirit-2025.pdf` | SPIRIT 2025 | Slide 7 |
 | `guideline-strobe-2007.pdf`, `guideline-strobe-explanation-2007.pdf` | STROBE and its explanation | Toolkit |
