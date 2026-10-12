@@ -9,10 +9,11 @@ Material for participants of the one-day workshop. It contains only what you nee
 | [`participant-pack.pdf`](participant-pack.pdf) | Roadmap of the day (page 1), all exercise sheets, the quiz, manuscript A, the 7-layer checklist, the toolkit and the review report template | All day |
 | [`slides.pdf`](slides.pdf) | The slides of the day | All day |
 | [`materials/workshop/`](materials/workshop/) | TTM2 protocol (2019) and statistical analysis plan (2020) | Exercise 1 |
+| [`materials/annotated/`](materials/annotated/) | Annotated TTM2 and Gautret papers: the key points are marked on the page | Exercises 1 and 2 |
 | [`materials/references/`](materials/references/) | Open-access papers, guidelines and tools cited on the day (list below) | Talks, and after the day |
 | [`llm-exercise/manuscript-A.md`](llm-exercise/manuscript-A.md) | Fictional manuscript A, as a text file to paste into an LLM | Exercise 5 |
 
-The TTM2 and Gautret papers, and their annotated versions used in Exercises 1 and 2, are handed out on paper in class.
+The TTM2 and Gautret papers and their annotated versions are also handed out on paper in class.
 
 ## Papers cited on the day
 
