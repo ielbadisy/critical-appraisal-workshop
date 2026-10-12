@@ -32,7 +32,7 @@ Cited on the slides, in [`materials/references/`](materials/references/) (open a
 | `method-goldacre-compare-2019.pdf` | Goldacre et al. COMPare, Trials 2019 | Slide 14 |
 | `method-nuijten-statcheck-2016.pdf` | Nuijten et al. statcheck, Behav Res Methods 2016 | Slide 25 |
 | `method-huang-llm-rob2-2025.pdf` | Huang et al. LLMs and RoB 2, J Med Internet Res 2025 | Slide 44 |
-| `guideline-consort-2025.pdf` | CONSORT 2025 | Checklist, slides 11-11 |
+| `guideline-consort-2025.pdf` | CONSORT 2025 | Checklist, slides 11-12 |
 | `guideline-spirit-2025.pdf` | SPIRIT 2025 | Slides 11-12 |
 | `guideline-strobe-2007.pdf`, `guideline-strobe-explanation-2007.pdf` | STROBE and its explanation | Slide 12, toolkit |
 | `tool-robins-e-2024.pdf` | ROBINS-E, Environ Int 2024 | Slides 12, 27 |
