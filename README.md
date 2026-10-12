@@ -12,7 +12,7 @@ Material for participants of the one-day workshop. It contains only what you nee
 | [`materials/references/`](materials/references/) | Open-access papers, guidelines and tools cited on the day (list below) | Talks, and after the day |
 | [`llm-exercise/manuscript-A.md`](llm-exercise/manuscript-A.md) | Fictional manuscript A, as a text file to paste into an LLM | Exercise 5 |
 
-The TTM2 and Gautret papers, and their annotated versions used in the debriefs, are handed out on paper in class.
+The TTM2 and Gautret papers, and their annotated versions used in Exercises 1 and 2, are handed out on paper in class.
 
 ## Papers cited on the day
 
