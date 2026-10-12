@@ -6,7 +6,7 @@ Material for participants of the one-day workshop. It contains only what you nee
 
 | File | What it is | When you use it |
 |---|---|---|
-| [`participant-pack.pdf`](participant-pack.pdf) | All exercise sheets, the quiz, manuscript A, the 7-layer checklist, the toolkit and the review report template | All day |
+| [`participant-pack.pdf`](participant-pack.pdf) | Roadmap of the day (page 1), all exercise sheets, the quiz, manuscript A, the 7-layer checklist, the toolkit and the review report template | All day |
 | [`slides.pdf`](slides.pdf) | The slides of the day | All day |
 | [`materials/pdfs/`](materials/pdfs/) | TTM2 protocol (2019), TTM2 statistical analysis plan (2020), COMPare (2019) | Exercise 01 |
 | [`llm-exercise/manuscript-A.md`](llm-exercise/manuscript-A.md) | Fictional manuscript A, as a text file to paste into an LLM | Exercise 03, step 3 |
@@ -15,12 +15,7 @@ The TTM2 and Gautret papers are handed out on paper in class.
 
 ## The day
 
-1. **Start:** cold appraisal of the TTM2 abstract (Exercise 00), then the pre-quiz.
-2. **Block 1. Open science and pre-specification:** trace TTM2 and Gautret from registry to paper (Exercise 01).
-3. **Block 2. Statistical methodology on real papers:** four rotating stations (Exercise 02).
-4. **Block 3. Apply the method:** review manuscript A alone, then in pairs, then with an LLM, and audit what it says (Exercise 03).
-5. **Block 4. LLMs in peer review:** what they can and cannot do, then the reveal.
-6. **Wrap-up:** post-quiz, and compare with your morning sheet.
+Page 1 of the participant pack is the **roadmap**: every step in order, with its duration, its slides and the pack pages to use. On the slides, each exercise has an orange START NOW slide; it stops when the time is up, and the slide says what comes next.
 
 ## Before the session
 
