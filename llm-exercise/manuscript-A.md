@@ -2,7 +2,7 @@
 
 > This manuscript, its registry entry and its analysis plan are entirely fictional. They were written for a peer-review training exercise and contain deliberate errors. Do not cite.
 
-**Your task:** you are a peer reviewer. Read the registry entry, the SAP excerpt and the manuscript. On the Exercise 03 sheet of the participant pack, list every problem you find, with its location and why it matters.
+**Your task:** you are a peer reviewer. Read the registry entry, the SAP excerpt and the manuscript. On the Exercise 3 sheet of the participant pack, list every problem you find, with its location and why it matters.
 
 ---
 

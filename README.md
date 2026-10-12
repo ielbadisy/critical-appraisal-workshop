@@ -8,14 +8,14 @@ Material for participants of the one-day workshop. It contains only what you nee
 |---|---|---|
 | [`participant-pack.pdf`](participant-pack.pdf) | Roadmap of the day (page 1), all exercise sheets, the quiz, manuscript A, the 7-layer checklist, the toolkit and the review report template | All day |
 | [`slides.pdf`](slides.pdf) | The slides of the day | All day |
-| [`materials/pdfs/`](materials/pdfs/) | TTM2 protocol (2019), TTM2 statistical analysis plan (2020), COMPare (2019) | Exercise 01 |
-| [`llm-exercise/manuscript-A.md`](llm-exercise/manuscript-A.md) | Fictional manuscript A, as a text file to paste into an LLM | Exercise 03, step 3 |
+| [`materials/pdfs/`](materials/pdfs/) | TTM2 protocol (2019), TTM2 statistical analysis plan (2020), COMPare (2019) | Exercise 1 |
+| [`llm-exercise/manuscript-A.md`](llm-exercise/manuscript-A.md) | Fictional manuscript A, as a text file to paste into an LLM | Exercise 5 |
 
-The TTM2 and Gautret papers are handed out on paper in class.
+The TTM2 and Gautret papers, and their annotated versions used in the debriefs, are handed out on paper in class.
 
 ## The day
 
-Page 1 of the participant pack is the **roadmap**: every step in order, with its duration, its slides and the pack pages to use. On the slides, each exercise has an orange START NOW slide; it stops when the time is up, and the slide says what comes next.
+Page 1 of the participant pack is the **roadmap**: every step in order, with its duration, its slides and the pack pages to use. The day has a pre-quiz, seven numbered exercises and a post-quiz. On the slides, each exercise has an orange START NOW slide; it stops when the time is up, and the slide says what comes next.
 
 ## Before the session
 
